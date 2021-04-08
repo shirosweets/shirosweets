@@ -8,7 +8,7 @@ I'm Shiro, I love developing small offline games for smartphones and PC, bots on
 - An app for create your interface for League of Legends (custom HUD).
 
 ✨ I already finished:
-- An online multiplayer game for web page adapted from the board game Secret Hitler.
+- An online multiplayer web game adapted from the board game Secret Hitler.
 - A Discord bot for online game World of Warcraft (Manager bot).
 - A Discord bot for send messages with commands.
 
