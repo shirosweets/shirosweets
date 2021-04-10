@@ -47,7 +47,7 @@ I'm Shiro, I love developing small offline games for smartphones and PC, bots on
 
 ⚡ Fun fact: student, enthusiast developer, curious, cat and games lover (MMORPG, MOBA, RPG) ≧◉ᴥ◉≦
 
-🌈 What I want to learn or improve in the future: Maven, Pandas, AWS, Ruby, TypeScript, MERN, mongoDB, Angular, French...
+🌈 What I want to learn or improve in the future: Maven, Pandas, Prometheus, AWS, Ruby, TypeScript, MERN, mongoDB, Angular, French...
 
 <!--
 **shirosweets/shirosweets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
