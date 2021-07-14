@@ -1,4 +1,5 @@
 <div align="left">
+
 [![GitHub followers](https://img.shields.io/github/followers/shirosweets?label=Follow&style=social)](https://github.com/shirosweets/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-vsv.dev.solft@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vsv.dev.solft@gmail.com)](mailto:vsv.dev.solft@gmail.com)</div>
 ---
 
@@ -12,10 +13,11 @@
 - [ ] Simon says game (Offline game).
 - [ ] A portfolio online (GitHub Pages).
 - [ ] A to-do app for android.
-- [ ] A Twitch bot (send a custom message live).
-- [ ] An app for create your interface for League of Legends (custom HUD).
+- [x] A Twitch bot (send a custom message live).
+- [x] An app for create your interface for League of Legends (custom HUD).
 
 :octocat: I’m currently working professionally with:</p>
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
@@ -24,6 +26,7 @@
 ![Elastic](https://img.shields.io/badge/-Elastic-05122A?style=flat&logo=Elastic)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=Elasticsearch)
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)
+
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-05122A?style=flat&logo=FFmpeg)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -33,11 +36,13 @@
 
 🌱 I’m currently learning or improving:</p>
 Frameworks:</p>
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![FastAPI](https://img.shields.io/badge/-fastAPI-05122A?style=flat&logo=fastAPI)
 
 Languages:</p>
+
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
@@ -50,6 +55,7 @@ Languages:</p>
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 
 Tools:</p>
+
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=%27flat%27&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)
@@ -73,6 +79,7 @@ Tools:</p>
 ![OBS](https://img.shields.io/badge/-OBS_Studio-05122A?style=flat&logo=obs-studio)
 
 IDE's and editors:</p>
+
 ![Visual Studio Code](https://img.shields.io/badge/-VSC-05122A?style=flat&logo=visual-studio-code)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse)
