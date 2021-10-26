@@ -6,8 +6,6 @@
 ### Hi!
 > I'm Shiro, full stack developer. I love developing small offline games for smartphones and PC, bots on Discord and addons for online games ✨
 
-:octocat: I’m currently working professionally with:</p>
-
 🌱 I’m currently learning or improving:</p>
 
 Languages:</p>
