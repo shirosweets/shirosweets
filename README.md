@@ -5,48 +5,19 @@
 
 ### Hi!
 > I'm Shiro, full stack developer. I love developing small offline games for smartphones and PC, bots on Discord and addons for online games ✨
-### :hibiscus: Personal projects
-
-- [x] An online multiplayer web game adapted from the board game Secret Hitler.
-- [x] A Discord bot for online game World of Warcraft (Manager bot).
-- [x] A Discord bot for send messages with commands.
-- [ ] Simon says game (Offline game).
-- [ ] A portfolio online (GitHub Pages).
-- [ ] A to-do app for android.
-- [x] A Twitch bot (send a custom message live).
-- [x] An app for create your interface for League of Legends (custom HUD).
 
 :octocat: I’m currently working professionally with:</p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Elastic](https://img.shields.io/badge/-Elastic-05122A?style=flat&logo=Elastic)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=Elasticsearch)
-![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)
-
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)
-![FFmpeg](https://img.shields.io/badge/-FFmpeg-05122A?style=flat&logo=FFmpeg)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=Gitlab)
-![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=Stripe)
-![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)
-
 🌱 I’m currently learning or improving:</p>
-Frameworks:</p>
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
-![FastAPI](https://img.shields.io/badge/-fastAPI-05122A?style=flat&logo=fastAPI)
 
 Languages:</p>
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 ![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=Haskell)
@@ -54,12 +25,32 @@ Languages:</p>
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 
+Frameworks:</p>
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+![FastAPI](https://img.shields.io/badge/-fastAPI-05122A?style=flat&logo=fastAPI)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+
 Tools:</p>
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Elastic](https://img.shields.io/badge/-Elastic-05122A?style=flat&logo=Elastic)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=Elasticsearch)
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-05122A?style=flat&logo=FFmpeg)
+![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=Stripe)
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=%27flat%27&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=Gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)
@@ -95,6 +86,7 @@ IDE's and editors:</p>
 <p align="center">
   <a href="https://github.com/shirosweets/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shirosweets&show_icons=true&count_private=true&locale=en&theme=radical" alt="shirosweets">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirosweets&locale=en&theme=radical" alt="shirosweets"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirosweets&locale=en&theme=radical" alt="shirosweets"/><br>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=shirosweets&row=2&column=3&theme=radical" alt="shirosweets"/>
   </a>
 </p>
