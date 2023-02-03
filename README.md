@@ -79,7 +79,7 @@ IDE's and editors:</p>
 
 ⚡ Fun fact: student, enthusiast developer, curious, cat and games lover (MMORPG, MOBA, RPG) ≧◉ᴥ◉≦
 
-🌈 What I want to learn or improve in the future: Maven, Prometheus, AWS, Ruby, Sass, TypeScript, MERN, mongoDB, COBOL, Arduino, French...
+🌈 What I want to learn or improve in the future: Go, Maven, Prometheus, AWS, Ruby, Sass, COBOL, Arduino, French...
 
 <p align="center">
   <a href="https://github.com/shirosweets/">
