@@ -1,6 +1,6 @@
 <div align="left">
 
-[![GitHub followers](https://img.shields.io/github/followers/shirosweets?label=Follow&style=social)](https://github.com/shirosweets/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-vsv.dev.solft@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vsv.dev.solft@gmail.com)](mailto:vsv.dev.solft@gmail.com)</div>
+[![GitHub followers](https://img.shields.io/github/followers/shirosweets?label=Follow&style=social)](https://github.com/shirosweets/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-vsv.dev.soft@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vsv.dev.solft@gmail.com)](mailto:vsv.dev.solft@gmail.com)</div>
 ---
 
 ### Hi!
